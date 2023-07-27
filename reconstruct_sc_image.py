@@ -14,7 +14,6 @@ import h5py
 from torchvision import datasets, transforms
 from models.denoisingUNET import build_unet
 
-
 def get_device():
     if torch.cuda.is_available():
         device = 'cuda:0'
