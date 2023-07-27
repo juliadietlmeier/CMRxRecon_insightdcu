@@ -1,4 +1,4 @@
-"author: translated from MATLAB by Julia Dietlmeier"
+'author: translated from MATLAB by Julia Dietlmeier'
 "email: julia.dietlmeier@insight-centre.org"
 
 # to reduce the computing burden and space, we only evaluate the central 2 slices
