@@ -23,7 +23,7 @@ def get_device():
         device = 'cpu'
     return device
 
-# reconstruct SingleCoil image
+# reconstruct MultiCoil image
 def reconstruct_mc_image(path, accfactor):
     
     if accfactor=='AccFactor04':
