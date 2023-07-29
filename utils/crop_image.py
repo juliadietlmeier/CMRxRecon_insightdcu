@@ -3,7 +3,7 @@
 """
 Created on Fri Jul 28 19:21:47 2023
 
-@author: daa
+@author: Julia Dietlmeier
 """
 import cv2
 import numpy as np
