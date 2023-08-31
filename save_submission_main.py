@@ -56,7 +56,6 @@ for k in range(0,3):
             print('SC Patient #',d)    
             
 "=== now do MultiCoil ========================================================="
-#"=== generate only for 5 patients P001 to P005 but for three AccF to be listed on the leaderboard"
 
 AccF=['AccFactor04', 'AccFactor08', 'AccFactor10']
 basepath='/media/daa/My Passport/CMRxRecon_data_2023/CMR_Recon/ChallengeData/MultiCoil/Cine/ValidationSet/ValidationSet/'
