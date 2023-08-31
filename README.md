@@ -1,11 +1,14 @@
 # CMRxRecon_insightdcu
 Prototype and Submission files for the MICCAI 2023 STACOM workshop (CMRxRecon challenge)
 
-The folowwing weights are needed (Google link)
+The following weights are needed (Google link)
 
 SC_GNAUnet_300epochs_lax.pt
+
 SC_GNAUnet_300epochs_sax.pt
+
 MC_GNAUnet_300epochs_lax.pt
+
 MC_GNAUnet_300epochs_sax.pt
 
 
