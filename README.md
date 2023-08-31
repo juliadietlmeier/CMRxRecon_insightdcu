@@ -1,7 +1,15 @@
 # CMRxRecon_insightdcu
 Prototype and Submission files for the MICCAI 2023 STACOM workshop (CMRxRecon challenge)
 
-The weights for trained denoising UNET are on drive https://drive.google.com/file/d/1muzBNRrypFeifJGC_TvWD55YrlUgfWQ1/view?usp=sharing This denoising UNET was trained on long axis images only.
+The folowwing weights are needed (Google link)
+
+SC_GNAUnet_300epochs_lax.pt
+SC_GNAUnet_300epochs_sax.pt
+MC_GNAUnet_300epochs_lax.pt
+MC_GNAUnet_300epochs_sax.pt
+
+
+The weights for trained denoising prototype UNET are on drive https://drive.google.com/file/d/1muzBNRrypFeifJGC_TvWD55YrlUgfWQ1/view?usp=sharing This denoising UNET was trained on long axis images only.
 
 
 Please double check the predicted (returned) signal intensity normalization in reconstruct_sc_image and reconstruct_mc_image functions
