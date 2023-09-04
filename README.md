@@ -1,7 +1,7 @@
 # CMRxRecon_insightdcu
 Prototype and Submission files for the MICCAI 2023 STACOM workshop (CMRxRecon challenge)
 
-The following weights are needed ([Google link](https://drive.google.com/drive/folders/1WnnJEoyEY7-4rcavP4rd02fRPgIJy_1-?usp=drive_link))
+The following weights are needed ([Google link](https://drive.google.com/drive/folders/1WnnJEoyEY7-4rcavP4rd02fRPgIJy_1-?usp=drive_link)) to reconstruct Single Coil (SC) and Multi Coil (MC) LAX and SAX images:
 
 SC_GNAUnet_300epochs_lax.pt
 
