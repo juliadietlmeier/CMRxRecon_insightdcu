@@ -3,18 +3,18 @@ Prototype and Submission files for the MICCAI 2023 STACOM workshop (CMRxRecon ch
 
 The main script to reconstruct validation data is save_submission_main.py
 
-The following weights are needed ([Google link](https://drive.google.com/drive/folders/1WnnJEoyEY7-4rcavP4rd02fRPgIJy_1-?usp=drive_link)) to reconstruct Single Coil (SC) and Multi Coil (MC) LAX and SAX images:
+%The following weights are needed ([Google link](https://drive.google.com/drive/folders/1WnnJEoyEY7-4rcavP4rd02fRPgIJy_1-?usp=drive_link)) to reconstruct Single Coil (SC) and Multi Coil (MC) LAX and SAX images:
 
-SC_GNAUnet_300epochs_lax.pt
+%SC_GNAUnet_300epochs_lax.pt
 
-SC_GNAUnet_300epochs_sax.pt
+%SC_GNAUnet_300epochs_sax.pt
 
-MC_GNAUnet_300epochs_lax.pt
+%MC_GNAUnet_300epochs_lax.pt
 
-MC_GNAUnet_300epochs_sax.pt
+%MC_GNAUnet_300epochs_sax.pt
 
 
-The weights for trained denoising prototype UNET are on drive https://drive.google.com/file/d/1muzBNRrypFeifJGC_TvWD55YrlUgfWQ1/view?usp=sharing This denoising UNET was trained on long axis images only.
+%The weights for trained denoising prototype UNET are on drive https://drive.google.com/file/d/1muzBNRrypFeifJGC_TvWD55YrlUgfWQ1/view?usp=sharing This denoising UNET was trained on long axis images only.
 
 
 **Our pipeline processes LAX and SAX images separately**
