@@ -14,9 +14,6 @@ The main script to reconstruct validation data is save_submission_main.py
 %MC_GNAUnet_300epochs_sax.pt
 
 
-%The weights for trained denoising prototype UNET are on drive https://drive.google.com/file/d/1muzBNRrypFeifJGC_TvWD55YrlUgfWQ1/view?usp=sharing This denoising UNET was trained on long axis images only.
-
-
 **Our pipeline processes LAX and SAX images separately**
 
 
